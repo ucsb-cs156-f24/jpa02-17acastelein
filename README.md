@@ -1,7 +1,7 @@
 # jpa02-17acastelein
 
 
-Repo: https://ucsb-cs156-f24/jpa02-17acastelein
+Repo: https://github.com/ucsb-cs156-f24/jpa02-17acastelein
 
 Deployed at: https://jpa02-17acastelein.dokku-05.cs.ucsb.edu
 
